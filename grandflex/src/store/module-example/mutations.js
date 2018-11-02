@@ -1,0 +1,4 @@
+export function someMutations (state) {
+
+}
+
